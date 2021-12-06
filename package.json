@@ -1,0 +1,27 @@
+{
+  "name": "get-sex-by-slavic-name",
+  "version": "0.0.3",
+  "description": "Gets gender of person by his/her name.\r Algorithm based on \"lvovich\", \"gender-detection-from-name\" and \"gender-rus\" packages, combining their results.\r Perfomance showed the 92% accuracy checking it with 50k names.",
+  "keywords": [
+    "sex",
+    "gender"
+  ],
+  "main": "getsexunit.js",
+  "author": "smeshmike",
+  "license": "MIT",
+  "dependencies": {
+    "cyrillic-to-translit-js": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmeshMike/get-sex-by-slavic-name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SmeshMike/get-sex-by-slavic-name/issues"
+  },
+  "homepage": "https://github.com/SmeshMike/get-sex-by-slavic-name#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
