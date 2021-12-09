@@ -7,7 +7,8 @@ Perfomance showed the 92% accuracy checking it with 50k names.
 
 ## Example
 
-```const GetSex = require('get-sex-by-slavic-name');
+```
+const GetSex = require('get-sex-by-slavic-name');
 
 res = GetSex("Виталя", "Усинов");
 console.log(res)
