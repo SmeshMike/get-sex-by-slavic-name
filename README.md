@@ -1,7 +1,7 @@
 # get-sex-by-slavic-name
 ![npm](https://img.shields.io/npm/v/get-sex-by-slavic-name)![NPM](https://img.shields.io/npm/l/get-sex-by-slavic-name)
 
-Gets gender of person by his/her name.
+Gets gender of person by his/her name. Algorithm oriented towards slavic or CIS names.
 Algorithm based on "lvovich", "gender-detection-from-name" and "gender-rus" packages, combining their results.
 Perfomance showed the 92% accuracy checking it with 50k names.
 
